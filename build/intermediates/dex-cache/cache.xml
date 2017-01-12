@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_675f7f798e2498803d0bf57aeba829abe32503b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_d6759668173848575d827f3cf59d303808fe094c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_880a4b46147de1c7a88a232cac86ddaa9e8fc2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_263668922ed0ec0ca2f86977b59e96477cfbb052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_958b4d25962296ecc7c64ec910181a2cf55bd85a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_f15ae97140314794e793958c85bd8eff55ea8236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_83321266704448cd8c69929e7beeb7822b7274d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_141bc4933a1f935650c9b2679333f32e95dd8f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_00a08d4bb79d4c19de22223fe948d70cdbd12719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6392a0c5aabf3161160f1249ae24c7d077504267">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38ad783c830e0307b43a811129f2a430f4681f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_2b46bd481c8ed2466f07f4be1429c06a6f4a91fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_23f3a20c931fd8619bbc390434e97b8051f9d7a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_ba50d6a6c1c90118de1d965c7f3c161926c8e297/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_9cd90a9f6b8d283c2121ec94f43712dd2bfa8f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_28195c6783fe51752c355e280046322a77cac98d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97b8b6585be6705821494b41a374e9f2753badb2">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98196617d8fb0424fdc19970f855c288d865b3f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_c7535274e009e887bc28d9405efb1ec6441d175a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_9e914839efb87580b2d99efc4f20b772b16c4ffb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_e1a04610e98d8ed77c67a9dbc54da5da109d1a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_7ea328e3433543779cf341e0c7c03a9c3d1ec600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_2917309c05673c1040be46246f9a2f392e97e365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_628c37754005ca1e605c2e23af8bb857f8ee1a0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_391e049427be362c24b6ef2e4eeb9c60f9a2947b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_a55856cbc3350339288ba3411827ffdf2d924de3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_2c5aea3519d0f783028b1df60ae9ad777323811e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_3a0533ee77cf97695f4b5981e44e26ab8a7336df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_bcaa73d967ecad62b3d2441444e63228bb34bc28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_9f691b68c2f9da148a3a1e91c4e1f677fd159ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_c993f351c783141eadc0faaa84dbb9c92f5e5d05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_87a3ec6d566329bdcb292bd12bccd804a4fb157e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_20054e0bb3457e574cec2538369c7969798a0a78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_72a073be52c4cedcfafeea4b8645762831857cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4c56ac211c076746529df6484cfb0f3cdab5682d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_d40f9fd55640b9f7328ab79a72846b4f7f98ff94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_f7d0236bd29861a785be4e4321f6870aadc7a9dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efa40ea6c6829dcc984168aef116ba437a333a5e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fc1b01fc34f552ebb9abe828db59fa6fe0ef8338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_f73933afa65ad215b38434737fb64faa79b1fd8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_5854f92fa05b81ac0a6c4d1e97e194deca07758c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_ff1a3f64155b484e9536d4fc0ab66400d4a40c00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_4c181ed53cee3de728c52b13f6f8eb681c166b65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_a6e82c6f9485a3480cefe2fcc5d6f4f735a7a5d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_fac941c4ebb87296230f766649e30c548a7ba4d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_c00388e0e58211ed50ad95c7d4fb22765c737b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_dd92e492e2d73d5b399a3677e8bb8b8eedb753dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3d88bc5b203130603ad5b191b0d91d796cc39740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_b4ee7a2c8400fe1bea4620e2888ab8f1e8947d81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_dff1ed4049c7cb52b19029264b3c9dad34ec8027/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_425259d4462aefb5cf4d10333a28eeea6b711dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_1ac85d34213b8a533d49a46e6e5f0aec60a64e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_8c8f7a3323fdc75f00a154284c8aea2e647feb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_4aff2c4a5cff2a9468c7360bdfda159d200440f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_802e6e94018143700f9b992d97a4bf715aad85e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c2812e16b6256be84a79701b9284df9f4e272c27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_19fce18731418f55fcac87845fff8f94a59539a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_91c9c9af184607d60b84a59f4e1c29f1daf45c2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_53e9494e1c581a0e83461df4acb96d05dda6ecde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_5b7f9cff073e8e8e87d3743e4691fc245fbd0078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_00b2b355e59741ca559101bb855b573542d92660/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_b2d1c44f8376e68ffb8e80f96234459de7ab0327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_ecdc6c5a0b3741b90bcbde8ef4f7b48e6642aba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_57fad2b751b8236dae52008179002dfc9b2c696d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_7f2a59de77eb14964b7b423122669e48d412d728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6d52abfb3486aa71c2c88f63abad1ef2fa66122c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6c3dc11215934b636dd46232138a552a318a3a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_047d9f3d5a18fe54ca220228d639f6c022664482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_35ad091f4b1fb05404357152d3f8a704c1eeb755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_51b70c48c442eb0cb22b751f79660e700a25f3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_88f3be15c86717f0bc1785c980459dc9e04436ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_93e9937fa3d706ad48363c065eeffa602fd46691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_2ad1900d82f564fc398044154b4ed4ffdf310214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_af5747cef195a944fc28ccf11f563d9cdc1ba142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_7c101fed950eba46c67fdcb27714e820be1a3fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_f5fd5bc8a090590a42abc7cd257c3055b7cebca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_d01bb97fde33747d4ce03a62b396804a2c40bc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_e62bdc533dd30d740c87c4bc2c2767902b20a145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c896fd29ae27b1a5d683a3f7e61cf0297a62be03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_a3ed38945820a7eb3156eec12401f7d449040331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_250d9a5b65736911f8f6898d0ccb451c16d10a8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_3f012c3846a8ec18c3013a8d408b1e68d4eb20b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_af996f643ee3b69768ad7ef04889af90f860663b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_3657010eb216c4ad6b5c543ab7c6b8f78baae826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_2c9b63858898bdc4f80fdeb78c46ef370c51fd2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_28214e9bdcaab3d23f1a00c7ed09b0fc48fdf5a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_aa9a4fc44db32826ac043fc2e6359e7430d3b01c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ba32c9e3a9bb633fe22ebe6b8d927afaf32ee703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8726fd5be707c5b6a8cab2bc37271f4b939324d1">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_346715e306744f2ef14f5e32f994ec2f520ab2fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_8ffd69c6a9635db475714f01701cd21c0a425b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_1cb8f070e943f601c4d6b04a7a65b07b8689b070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_5b62c85c3e3b7d38b50c8e2f15ed0e2c2b4a9ecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_dc4c8862a9ade5dc0bc89406b1cb85f99dd63504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_2821851038b0b9400da6f67095519269cae9dfe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_63e964f7560595181c173236dee53b0a036ed16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_ab17d49ba573f182ea16ce6323b7e998614408da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_48d7fb7df6c2c677348cbd3ce17f023de50d3c74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_93ec90986724a785ec1b45292bf4120bc1335a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_bd7cb2fea99636fe27e375589fb316b3c1b034ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a0e1682e3dc314e4bf91e5287e11d09ca8b65c6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_09f705c102b394a53aa8b406fbc387b715526e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_efa17c083674b2da7dab381985ee72f5a03204fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_6b5ca692f28dbfc84b66ed02e083d966d8a5b675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_f6d6283fa1fd6bc70f2530b4ea6b010badf0bde1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_441600d12355ace9e709dfaad070d7045fddbeff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_fa5651f87fe51e493da9ffcc2ac59261bf7d95eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_41b29abc63ddec284fd80bfd85d8572ed7fd3053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_23227a8b1f36b64507ad084fa7499715bda2fd89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_4d5d1f8159558c615fb9d1f33f79832e2910f337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_8200be816fe0937477d2814e9d77bdc96848e5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_644336c46232b1e7a1a8aa913f7ca2f67069772f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_94bfde4981ba4de3f5709e2b909eb89fdf26b687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_895f330d803f8c270e2b2b6e5341a316af6b6ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_e5356d77f9268ff87b4a641a1b923d291e56641e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_b5a1befacef436a3724f4d1a40dbf1750af8a5f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3f32be47575703b05f70791b7894c680d2d82a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_f31cb1a1ca2287b675ceb035c1b71f24d05cf2ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_dbdc84a39f359320f5969c13055b8059a30c2516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_29fc605daa6e7a37b14000078c2b99c3fc13ff46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_fd7963315a70f4f30d029d169c3ec880cb235423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_f6aab1ebd229289e279a36864eb392038f4ee571/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_bc8d5a0dd0fdfe38af57ba81e14395fc446dfe55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_204322eb139213f69e780177941e99c288873037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_0b1245bf4f1eb8784326289b0a93a28db0b23593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c0d327bde205156273ec22cdccc749c9c3dfb625/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_df0573242dfb7f7f092cdcb1d7ae16bac7d1250e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_b7a472b1ef25b1d5aaaed4a07f156e8827367cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_16769be12e38601162b5ce2270accbf5b0f0ab88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_551eb7867188691b9b39627c55caa13afdf3d465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_b800694eafa52b8186fb1ce31c6b5145bea06e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_66f755e58b41c2f5a7148a03daf31e07f6f95369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_9d2f610f107908fb7fd636f9d1ebd46ee7b7cc3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_0b265c829e3c528b1b4b419cc57db0cd6ef78a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_abdc1b581289bcb78bfe3ec332f7ed6cd319cc34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_d8c55a26c75e6cbfbadad48094a6a2a1de137b7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_c6c845df8e0e1414d11bf9651244c7295372138a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_6a020a6f1dfea7943f296ec3e114b750bfc4f416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_f9d7268247e038af1d9566337d105808eb12ddfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_918e33edc60895931ae0dd6f38b0c390ac86a1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/rafaelocrin/Documents/workspace/CourseraAndroidApp/src/com/Zocrosfera/Curso4/Semana2/MisMapasBcn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ce011489ed6f550f34ba641037bfd51405de7075/classes.dex" />
+    </item>
+
+</items>
